@@ -1,0 +1,15 @@
+# Python кэш и временные файлы
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Тестовые и аналитические файлы
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.coverage.*
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
